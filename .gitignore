@@ -1,6 +1,5 @@
 # specific for this repo
 archive/*
-.ipynb_checkpoints/*
 
 # General
 .DS_Store
