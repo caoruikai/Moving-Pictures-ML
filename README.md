@@ -1,8 +1,34 @@
-# Tech-Projects
-Tech Projects of Ruikai Cao with Different Topics
+# Machine Learning Systems Built around Moving Pictures (Films & Animation) Data
 
-1. [They Shoot Pictures Don't They](https://github.com/RuikaiCao/Data-Science-Projects/blob/master/Film-TSPDT/TSPDT.ipynb)
+## Data
+### Data Sources & Raw Data Files
+- [Wikipedia](https://www.wikipedia.org/)
+- [IMDb Datasets](https://developer.imdb.com/non-commercial-datasets/)
+- [They Shoot Pictures Don't They? (TSPDT)](https://www.theyshootpictures.com/)
+- [Rotten Tomatos](https://www.rottentomatoes.com/)
+### Create & Manage Databases
+- SQL database for structured meta data
+- NonSQL database for non-structured data like text, images, videos
+- Vector database?
+- Graph database?
 
-2. Crawl KXT music list and update Spotify and QQMusic list automatically.
+## Visualization & Analysis
+- Graph of studios, companies, artists, works, etc.
+- Clustering of studios, companies, artists, works, etc., based on similarities.
+- Timeline
+- Tools: D3.js
 
-3. 表情包排行榜
+## ML Algorithms
+- Forecast and casual inference on
+    - Ratings
+    - Revenues
+
+## Local Search Engine
+- Classical search engine
+- Use LLMs
+    - Local GPU served LLM
+    - GPT API via Azure
+
+## Webpage Frontend and Serving
+- Develop: Github Codespaces
+- Serve: Azure
